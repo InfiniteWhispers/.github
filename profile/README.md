@@ -1,6 +1,6 @@
 # Welcome to InfiniteWhispers! 🌟
 
-Hi there! 👋! This is my little corner of the tech world. I’m passionate about exploring the endless possibilities of technology.
+Hi there! 👋! This is my little corner of the tech world. I’m passionate about exploring the endless possibilities of technology. Just getting the organization setup, so my plan is to migrate some of my repos to here and away from my personal profile. So if you notice links taking you to my personal profile `bsc7080gbc` - that is why.
 
 ---
 
